@@ -97,4 +97,6 @@ h4{ text-align: center;
         margin: auto;
         background:linear-gradient(to top,#E78D1E, white);
         }
-.parrafo {  background:linear-gradient(to top,white, #E78D1E);}        
+.parrafo {  background:linear-gradient(to top,white, #E78D1E);}   
+.formulario { padding: 2rem;
+                }   
